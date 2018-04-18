@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SaikeerthiJp</string>
+    <string name="Login">Login</string>
+    <string name="EmailId">Email Id</string>
+    <string name="Password">password</string>
+    <string name="Attempts">No of attempts remaining :</string>
+    <string name="newuser">New User ? Register</string>
+    <string name="Name">Name</string>
+    <string name="Alreadyregistered">Already user ? login</string>
+    <string name="hello">Hello</string>
+    <string name="asdf">asdf</string>
+    <string name="Register">Register</string>
+    <string name="cont">continue</string>
+    <string name="Username">username</string>
+    <string name="phonenumber">phone number</string>
+    <string name="starttime">start time</string>
+    <string name="useraddress">User address</string>
+    <string name="issue">Issue Token</string>
+    <string-array name="bankspinner">
+        <item>Select your Bank</item>
+        <item>Andhra Bank</item>
+        <item>State Bank of India</item>
+    </string-array>
+    <string-array name="branchspinner">
+        <item>Select your Branch</item>
+        <item>LB Nagar</item>
+        <item>Dilsukhnagar</item>
+        <item>vikas nagar</item>
+    </string-array>
+    <string-array name="counterspinner">
+        <item>Select your counter</item>
+        <item>Cash counter</item>
+        <item>Loans</item>
+        <item>Withdraw</item>
+        <item>Deposit</item>
+        <item>Enquiry</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="showslot">show slot</string>
+    <string name="user">user :</string>
+    <string name="bank">bank :</string>
+</resources>
